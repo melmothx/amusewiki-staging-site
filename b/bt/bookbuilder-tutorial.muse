@@ -4,6 +4,8 @@
 #date 2016
 #lang en
 #teaser An in-depth exploration of the amusewiki's bookbuilder feature 
+#centersection 1
+
 
 *** Introduction
 
