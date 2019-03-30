@@ -1,3 +1,7 @@
+/* This is the working copy for the template which is going to be
+   embedded in the compiler. Initially set to the latest release
+*/
+
 [% IF epub %]
 @page { margin: 5pt; }
 [% END %]
