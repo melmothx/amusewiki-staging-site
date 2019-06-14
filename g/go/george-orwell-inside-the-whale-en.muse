@@ -7,11 +7,7 @@
 
 <br>
 
-* George Orwell
-
-* Inside the Whale
-
-* I
+*** I
 
 When Henry Miller's novel, <em>Tropic of Cancer</em>, appeared in 1935, it was greeted with rather cautious praise, obviously conditioned in some cases by a fear of seeming to enjoy pornography. Among the people who praised it were T. S. Eliot, Herbert Read, Aldous Huxley, John dos Passes, Ezra Pound — on the whole, not the writers who are in fashion at this moment. And in fact the subject matter ofthebook, and to a certain extent its mental atmosphere, belong to the twenties rather than to the thirties.
 
@@ -35,7 +31,7 @@ I have been using the phrase ‘ordinary man’ rather loosely, and I have taken
 
 It will be seen that this is something out of date, or at any rate out of fashion. The average sensual man is out of fashion. Preoccupation with sex and truthfulness about the inner life are out of fashion. American Paris is out of fashion. A book like <em>Tropic of Cancer</em>, published at such a time, must be either a tedious preciosity or something unusual, and I think a majority of the people who have read it would agree that it is not the first. It is worth trying to discover just what, this escape from the current literary fashion means. But to do that one has got to see it against its background — that is, against the general development of English literature in the twenty years since the Great War.
 
-* II
+*** II
 
 When one says that a writer is fashionable one practically always means that he is admired by people under thirty. At the beginning of the period I am speaking of, the years during and immediately after the war, the writer who had the deepest hold upon the thinking young was almost certainly Housman. Among people who were adolescent in the years 1910-25, Housman had an influence which was fiBnormous and is now not at all easy to understand. In 1920, when I was about seventeen, I probably knew the whole of the <em>Shropshire Lad</em> by heart. I wonder how much impression the <em>Shropshire Lad</em> makes at this moment on a boy of the same age and more or less the same cast of mind? No doubt he has heard of it and even glanced into it; it might strike him as cheaply clever — probably that would be about all. Yet these are the poems that I and my contemporaries used to recite to ourselves, over and over, in a kind of ecstasy, just as earlier generations had recited Meredith's ‘Love in a Valley’, Swinburne's ‘Garden of Proserpine’ etc., etc.
 
@@ -212,7 +208,7 @@ By 1937 the whole of the intelligentsia was mentally at war. Left-wing thought h
 
 On the whole the literary history of the thirties seems to justify the opinion that a writer does well to keep out of politics. For any writer who accepts or partially accepts the discipline of a political party is sooner or later faced with the alternative: toe the line, or shut up. It is, of course, possible to toe the line and go on writing — after a fashion. Any Marxist can demonstrate with the greatest of ease that ‘bourgeois’ liberty of thought is an illusion. But when he has finished his demonstration there remains the psychological <em>fact</em> that without this ‘bourgeois’ liberty the creative powers wither away. In the future a totalitarian literature may arise, but it will be quite different from anything we can now imagine. Literature as we know it is an individual thing, demanding mental honesty and a minimum of censorship. And this is even truer of prose than of verse. It is probably not a coincidence that the best writers of the thirties have been poets. The atmosphere of orthodoxy is always damaging to prose, and above all it is completely ruinous to the novel, the most anarchical of all forms of literature. How many Roman Catholics have been good novelists? Even the handful one could name have usually been bad Catholics. The novel is practically a Protestant form of art; it is a product of the free mind, of the autonomous individual. No decade in the past hundred and fifty years has been so barren of imaginative prose as the nineteen-thirties. There have been good poems, good sociological works, brilliant pamphlets, but practically no fiction of any value at all. From 1933 onwards the mental climate was increasingly against it. Anyone sensitive enough to be touched by the <em>zeitgeist</em> was also involved in politics. Not everyone, of course, was definitely <em>in</em> the political racket, but practically everyone was on its periphery and more or less mixed up in propaganda campaigns and squalid controversies. Communists and near-Communists had a disproportionately large influence in the literary reviews. It was a time of labels, slogans, and evasions. At the worst moments you were expected to lock yourself up in a constipating little cage of lies; at the best a sort of voluntary censorship (‘Ought I to say this? Is it pro-Fascist?’) was at work in nearly everyone's mind. It is almost inconceivable that good novels should be written in such an atmosphere. ‘Good novels are not written by by orthodoxy-sniffers, nor by people who are conscienee-stricken about their own unorthodoxy. Good novels are written by people who are <em>not frightened</em>. This brings me back to Henry Miller.
 
-* III
+*** III
 
 If this were a likely, moment for the launching of ‘schools’ literature, Henry Miller might be the starting-point of a new ‘school’. He does at any rate mark an unexpected swing of the pendulum. In his books one gets right away from the ‘political animal’ and back to a viewpoint not only individualistic but completely passive — the view-point of a man who believes the world-process to be outside his control and who in any case hardly wishes to control it.
 
