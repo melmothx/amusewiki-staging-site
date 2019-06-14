@@ -4,10 +4,6 @@
 #pubdate 2019-06-14T18:55:23
 
 
-* Reflections on the ZAD: Another History
-
-* Looking Back a Year after the Evictions
-
 <br>
 
 Starting in the 1960s, people set out to block the construction of an unwanted airport at Notre-Dame-des-Landes in western France. This became the world-famous land occupation known as la ZAD—the Zone à Défendre (Zone to Defend). In January 2018, the French government announced that the airport would not be built; in April and May 2018, French police carried out a brutal military operation to re-introduce state control. Today, the ZAD is a shadow of what it was.
@@ -18,7 +14,7 @@ The appendices include a glossary explaining all the different groups that parti
 
 Facing a tank on the Fosses Noires road during the evictions of spring 2018.
 
-* Background
+*** Background
 
 The ZAD was born out of local opposition to an imposed airport project in Brittany, the traditional region in northwestern France. Since its inception over 50 years ago, the struggle has grown and become more complex, with the arrival of radical squatters in 2007 and a strategy of land occupation since 2009. The ZAD covered more than 4000 acres, but the movement around the ZAD is much larger than the land itself.
 
@@ -28,7 +24,7 @@ In January of 2018, the French government officially abandoned the airport proje
 
 “Infanticide of a village.”
 
-* ZAD 2010
+*** ZAD 2010
 
 I showed up on the ZAD in early 2010 looking for a place to do drugs in the woods. I was in my early twenties, interested in radical politics but mostly involved with the environmental non-profit world. At that time, there were ten or fifteen people living there scattered between a few houses. We spent a lot of time having meetings and tea with the neighbors, everyone speaking in French (which I didn’t understand). I had expected anarchist struggle to be more exciting.
 
@@ -40,7 +36,7 @@ In 2010, the goals were to slow down the airport project using a combination of 
 
 Gardens in the <em>Rouge & Noir</em> field.
 
-* What Happened at the ZAD?
+*** What Happened at the ZAD?
 
 There is a lot of confusion in the Anglophone world about what happened last spring, especially why some people chose to negotiate with the state and sign contracts. My intention is not to justify the decisions that were made, but to talk about what factors shaped the decision-making. The vulnerabilities of anarchists and anti-authoritarians were used against them by those who became increasingly reformist in their collaboration with liberal groups. The ZAD offers a useful study of how authoritarian tendencies emerge, develop, and undermine situations with revolutionary potential. Because this took place on such a large scale, it is possible to identify patterns that can be disregarded as mere “interpersonal conflict” in other cases.
 
@@ -54,7 +50,7 @@ For example, the prefect publicly reiterated that only the houses close to the r
 
 Spring 2018: solidarity connecting the J20 case with the defense of the ZAD.
 
-* Tensions within the Movement
+*** Tensions within the Movement
 
 Over time, participants’ goals and priorities changed and the common objective became less clear. The goal of the anti-airport movement was to stop the airport and get some level of legal protection for the ZAD, but among those occupying the land, there was too much political division to arrive at a cohesive goal. The slogan “against the airport and its world” served as a useful shorthand at the beginning of the occupation, making it possible to fit a systemic critique into a few words. The “and its world” was also a baseline of the occupation, though it meant different things to different people.
 
@@ -114,7 +110,7 @@ By that point, however, the façade of unity was already crumbling. In retrospec
 
 Building a barricade in front of the Vraies Rouges.
 
-* The Evictions of April 2018
+*** The Evictions of April 2018
 
 Under the military occupation we experienced for several months during the evictions of spring 2018, sometimes success simply meant avoiding being blocked by the cops in order to make it to a meeting on time. Like, it’s 7:30 am, the tanks are pulling up now, so we have a two-minute window to get out before they exit their vehicles and we’re blocked in for the day. It fucks with your head. The week after evictions began, the garden collective held a well-attended workday to mobilize, assess the damage, and catch up on the work that had been missed. It was nice to see so many people and have the feeling of getting back to everyday activities.
 
@@ -166,7 +162,7 @@ We can see some of their perspectives on this in a letter read by “outside sup
 
 April 10: A tank threatening the Vraies Rouges barricade.
 
-* Since the Evictions of April-May 2018
+*** Since the Evictions of April-May 2018
 
 When the decision was finally made to sign the individual forms, the agreement was—everything is connected, so there will be names on the forms, but they’ll all be linked and turned in together; it’s “all or nothing.” This phrase was repeated ad nauseam—people wouldn’t sign individually, everyone would sign together, and “we were going to fight for it.” The trap was identified—the idea was not to give the state any more opportunities to create division, to sort through the “good” and the “bad” squatters and choose which ones to legitimize. Nevertheless, shortly after the individual forms were handed in on April 20, the projects were divided into three groups: those who would be offered contracts immediately, those who would probably be offered contracts in the fall if they changed their projects, and a third group to be discussed… at some point in the future. The projects in the first group signed contracts six weeks later, the first week of June, without much assurance beyond “the state says they’ll get to everyone eventually.” These contracts were temporary, covering agricultural projects and not houses, and could be cancelled on 48 hours notice.
 
@@ -196,7 +192,7 @@ The most recent chapter in the follow-up were the two days of police operations 
 
 A confrontation on the Fosses Noires road in spring 2018.
 
-* Strengths and Weaknesses
+*** Strengths and Weaknesses
 
 It is possible to turn the tenets of anarchist organizing against those who are committed to them. I don’t think all of these tenets are bad; I don’t want to change to a way of organizing that doesn’t take oppression into account, for example. But I do think it’s important to be aware of these traps to stop people from weaponizing them against us.
 
@@ -212,7 +208,7 @@ There will always be people who aim to take power, who try to take advantage of 
 
 Two kilometers of end to end police vehicles on the D281 road.
 
-* Authoritarian Tactics
+*** Authoritarian Tactics
 
 When one tendency acts without taking the others into account, imposes their decisions in the name of urgency, and speaks in the name of the whole, this creates a mechanism that won’t just stop by itself. Here are some examples of authoritarian activity seen on the ZAD that might offer helpful reference points for people organizing elsewhere.
 
@@ -226,7 +222,7 @@ I also saw people take a position as a bloc to protect members from criticism ev
 
 An effort to reconstruct a house destroyed by the police in April 2018.
 
-* Looking Back
+*** Looking Back
 
 Compared to 2010, things are very different now. The airport is a thing of the past, as is “the struggle against the airport.” In the past year, half or even two thirds of the people who lived on the ZAD and made it through alive have departed. I haven’t heard many people say they “wanted to return to nomadism,” or “just felt like living somewhere else,” as some have suggested. I imagine it’s clear at this point why they left.
 
@@ -242,7 +238,7 @@ I don’t know if all our struggles will inevitably be recuperated by liberals a
 
 Artichokes will survive!
 
-* Appendix I: Terms and Definitions
+*** Appendix I: Terms and Definitions
 
 <strong>ACIPA</strong>: “Intercommunal Association of Citizen Populations concerned by the Airport.” A local group opposed to the airport that was formed in 2000 and disbanded in June 2018. They were influential in the struggle against the airport and led most of the legal challenges. There was a lot of friction inside ACIPA around differences between goals and values. ACIPA included a board that made decisions and card-holding members from all over France. They held a large annual festive gathering with concerts, panel discussions, and presentation stands from anti-infrastructure projects, leftist organizations, and political parties.
 
@@ -264,17 +260,17 @@ Artichokes will survive!
 
 <strong>CMDO</strong>: The self-named “Committee for Maintenance and Defense of Occupations” is a group of people—not based in affinity—opposed to what they saw as the inefficiency of horizontal organization and with anarchists’ distrust of institutions and political parties. Often referring to an ideal of “the Commune,” this group comprised of “Appelistes” and anti-state leftists organized among influential people from the ZAD and from the wider movement to build a clear strategy to fight the airport. They operated in secret for a long time, often using tactics that others considered manipulative or dishonest to serve what they considered important ends. These methods combined with little capacity to engage with critique eventually created mistrust and division.
 
-* Appendix II: Letter to the Local Committees and to Everyone Who Would Like to Understand Where We’re at on the ZAD
+*** Appendix II: Letter to the Local Committees and to Everyone Who Would Like to Understand Where We’re at on the ZAD
 
 <strong><em>A translation of a text that appeared in May 2018.</em></strong>
 
 It seems like it’s really hard for people in other places to follow what’s going on, so we wanted to tell what’s been going on these past couple months on the ZAD of Notre-Dame-des-Landes. We’ll present in this text what we understand of what’s happening. It’s not just our analyses or feelings about the situation: we’ll try to present a diversity of opinions even if we don’t agree with them—we don’t even agree between the few of us writing this! The authors, by the way, are a couple of people who live on the zone and are used to organizing together in the same political group.
 
-* Victory and Fears
+*** Victory and Fears
 
 The announcement of the abandonment of the airport project, January 17, 2018, was—for a large part of the movement—a triumph in a long battle that gave strength and motivation to other struggles. For once, a struggle was won against a state-sponsored project backed by corporations. Yet for others, the next phase seemed difficult and full of worry. At the same time as the abandonment of the project, the government announced the “return to the rule of law,” when everything that happens on the zone is decided by us—who live here or are involved here. How will we be able to continue with everything that is built—human or material—on this zone? Many of us weren’t here just to oppose an airport. How will we continue to struggle against “its world,” in particular in the current context of Macron’s politics and the globalized development of neoliberalism?
 
-* It All Happened So Quickly: D281, etc.
+*** It All Happened So Quickly: D281, etc.
 
 From there, the pace, partly dictated by the government and taken up by many among us, was very fast and there often wasn’t enough time to discuss things together before making difficult or complex political decisions that often meant compromising our ideals.
 
@@ -286,7 +282,7 @@ The fears related to clearing the road and the road construction were largely co
 
 A gathering on the ZAD to celebrate the abandonment of the airport project, “grow roots for the future,” and support other struggles occurred on February 10. Two blocs gathered a few tens of thousands of people to converge on the farm of Bellevue, where effigies were burned representing contentious projects where there are struggles. There were also discussions at Lama Fâché and a party at Bellevue.
 
-* Negotiations
+*** Negotiations
 
 Before the airport was abandoned, the anti-airport movement and notably the “assembly of uses” had already decided to form an “inter-component delegation” to negotiate with the state about what would happen to the ZAD without an airport by upholding the decisions of the assembly of uses (see a previous letter to the committees in January). After long and difficult debates, the assembly of inhabitants decided that the squatters would participate in this delegation. We didn’t expect much out of it, but some among us considered it important to participate in this delegation with the other <em>components</em> to continue on our path together and take a step towards them; some didn’t want to let the other components negotiate for us without us, while others were totally opposed to discussion with the State.
 
@@ -296,7 +292,7 @@ This decision to participate in the delegation and to meet the prefect was prett
 
 The inter-component delegation was initially charged with presenting three big demands: the refusal of evictions and the legalization of all housing; freezing the redistribution of land to give the movement time to build an entity that would handle it long-term, and amnesty for everyone who experienced repression during these years of struggle. The assembly of uses behaved as if the movement could enter into a real negotiation with the state. The delegation was received two times, February 28 and March 20 at the prefecture, but contrary to what we asked for, there was only an exchange of positions. The prefecture blocked on every point (except for the freeze on land redistribution) and particularly regarding collective land management.
 
-* Internal Conflict
+*** Internal Conflict
 
 With the airport project abandoned, the most obvious thing that linked the diverse groups in the struggle as well as the people within each group had ceased to exist. Disagreements came to light and internal conflicts flourished. For example, on the ZAD, some were ready to accept legalization to stay long-term; others were willing to make certain compromises if they were compatible with the collective interest, while the priority of others was to remain coherent and not submit to the demands of a system we oppose, even if that meant risking eviction with dignity by staying outside the law.
 
@@ -308,7 +304,7 @@ Among those who want to build a common future on the ZAD, there were also confli
 
 A barricade in spring 2018.
 
-* The First Wave of Evictions
+*** The First Wave of Evictions
 
 The first wave of the 2018 evictions began April 9, and on the evening of the 12th the prefecture announced the end of the operation carried out by the military police. Between the two, more than 270 people were injured by the forces of order, about 60 people were arrested, and a third of the ZAD was razed to the ground.
 
@@ -318,7 +314,7 @@ The eviction and destruction of the Cent Noms attracted lots of attention and mo
 
 During this week there were gatherings and solidarity actions all over France and Belgium and gatherings in front of the French embassies in Lisbon, Tunis, Vienna, and London, as well as actions in Chiapas, Palestine, India, Quebec, Greece, the US, and elsewhere.
 
-* Military Occupation, Repression, and Resistance
+*** Military Occupation, Repression, and Resistance
 
 The military occupation had begun as soon as the road was “opened,” but after the first wave of evictions and the declaration of the “truce” by the prefect on the evening of Thursday, April 12, it escalated to another level of pressure. They continued destroying cabins—notably at La Mandragore, L’isolette, La Noue non Plus, and Pimki. The intention seemed to be to wage a psychological war that would produce less violent images, by a daily occupation that showed the force of the state—a constant stream of tanks and transport trucks, plus the helicopter and ever-present drones. The reasons given were to “assure freedom of movement on the roads,” the “clearing of debris,” which took weeks, and even to protect those with agricultural projects from the others. All the while, they conducted surveillance, continued to arrest and injure people, and blocked the main axes and crossroads as well as the smaller roads, which made our daily lives and agricultural activity difficult. There were countless ridiculous scenes in which tractors with large wagons of manure behind them had to turn around four times because all of the roads were blocked, or gendarmes cut the barbed wire fences of local farmers.
 
@@ -326,7 +322,7 @@ However, there were acts of resistance to this occupation. Barricades comprised 
 
 To not leave the people isolated who were arrested or convicted during the evictions, there were several evening visits to the prison at Carquefou, notably one called out largely on the level of the movement. Even if it wasn’t very diverse in terms of components or even of people from the ZAD, there were about a hundred people there to make a nice ambiance, including music, an improvised rap concert, exchanging messages with prisoners, and fireworks. There were no arrests or injuries and it was a joyous and motivating moment.
 
-* Forms
+*** Forms
 
 The famous forms that everyone is talking about are declarations of intention regarding an agricultural project, which could enable those submitting them to obtain a Precarious Occupation Convention (COP). The COP is a free contract that gives very few rights and which the state can end within a couple days. There was no guarantee from the state that these declarations of intention would result in the granting of a COP.
 
@@ -338,7 +334,7 @@ The forms were filled out in a hurry, and those who weren’t present at the ass
 
 In the end, the administrative efforts took lots of time and energy, while we didn’t really manage to organize collectively for actions.
 
-* Actions on the Ground
+*** Actions on the Ground
 
 At the end of the first week of evictions, we organized a reoccupation demo for Sunday, April 15. There were 5-10,000 people who managed to pass through or avoid the police controls to get in. The plan was to rebuild the Gourbi, but it seemed impossible to even get there because of a large police presence: people were arrested and wounded around the Rohanne Forest.
 
@@ -350,13 +346,13 @@ There were other moments of reclaiming space together, like the two Sundays of o
 
 The “garden-again” days, every Sunday, reestablished gardens that had been destroyed around the ex-barricade road and in the east in order to continue to make these places live so as not to abandon this part of the ZAD, even if the cabins were destroyed. There was re-cultivation at Planchettes, Plan Chouette, and le Sabot. There was even a garden bed in the form of a middle finger, a special dedication to the low-flying helicopter bothering the gardeners.
 
-* The Second Wave of Evictions
+*** The Second Wave of Evictions
 
 After the first wave of evictions, the government set an ultimatum with their “piloting committee” for May 14 for those who weren’t “integrated into the framework that the state proposed.” Early in the morning of May 17, hundreds of military police passed the barricades on foot and kettled the Rohanne Forest. They evicted and destroyed four living spaces close to the forest: la Châteigne, Puiplu, la Vosgerie, and la Datcha. The next day, they simultaneously attacked les Domaines and le Phoenix in the center, Ker Terre and la Gare in the far east, and la Freuzière and la Tarte in the far west. The Pré Failly, obviously forgotten on the maps of the daily objectives that the general in charge of the operation published each morning, was set on fire, almost certainly by the cops who had kettled the neighborhood. Between a lightning attack by 2000 military police who rapidly surrounded their targets and a weak mobilization on our side, the summary of these two days of police operation was bitter: all the living spaces that weren’t covered by the forms for “declaring intention of projects” were evicted. The stone houses were walled up by the gendarmes and then unwalled and resquatted, then re-evicted. They even promised to come back and destroy them, pretending that we were forcing them to do that by re-squatting!
 
 The following Sunday, several hundred people came to the ZAD for different workdays, from gathering materials in the rubble for reconstruction to sowing buckwheat, the construction of mini-domes at the Gourbi, and other spontaneous activities.
 
-* And Now?
+*** And Now?
 
 We don’t really know where we’re at now. There is a lot of exhaustion and conflict, after weeks of evictions and police presence. But there are still many people who were already living on the ZAD or who came this spring and are determined to stay, to keep fighting and to build something here. There are still some desires to keep a kind of togetherness that can remain through all this.
 
@@ -366,13 +362,13 @@ For many among us, we want to continue to defend a zone where there is space for
 
 <em>May 2018</em>
 
-* Appendix III: Postcards from Outside
+*** Appendix III: Postcards from Outside
 
 This zine, <em>Postcards from Outside,</em> was distributed with the ZADnews in May 2018.
 
 A PDF of a selection from <em>Postcards from Outside</em> in English. Click the image to download.
 
-* We’ll Know How to Find Each Other
+*** We’ll Know How to Find Each Other
 
 We will have fought for a bit of wetland, some ordinary country roads and a tiny forest. It’s true. We needed a pretext, an occasion, a bonfire to meet each other, warm our hands, dare to look each other in the eyes and to finally feel less alone when we go out in the night. This place lent us its warmth. It let us take its embers in our pockets when it was time to go. We didn’t betray our promises to come back and defend it. We were all there. When the evictions began, we rushed there, a bit dazed but determined to confront whatever would come to take away this bit of territory so strongly tied to our hearts. Everyone in their own way, we are fighting our last battle for the ZAD. Despite our different paths, we share a fierce desire to thank it for everything it gave us these past years—everything beautiful, sincere, joyous, and in flames. But a metamorphosis has begun, which we need to look at head on if we don’t want the ghost of our past failures to haunt our future adventures. It’s raining and every day our ember goes out a little bit more. The wood is wet and the fire won’t start again. We should say goodbye with dignity, be up to the level of what it brought up in us. On the ashes, some projects will surely continue and that’s for the best.
 
@@ -388,25 +384,25 @@ Let’s know how to die.
 
 “Everything is unfolding with discernment and in respect of the law.” –Nicole Klein (Prefect), April 9, 2018
 
-* Appendix IV: Further Reading
+*** Appendix IV: Further Reading
 
- - 
+ -
 
 Against the Boot-Lickers and their World—An analysis of the media portrayal of the ZAD during evictions.
 
- - 
+ -
 
 Letter from Supporters to the Assembly of Uses—Poignant, bullet-pointed arguments regarding what some supporters were fighting for and the changes they opposed.
 
- - 
+ -
 
 Call to find a Political Meaning to the Struggle on the ZAD—Written by “farmers against the norms,” it tends to lump all “the negotiators” together, but offers a pretty thorough and interesting analysis about “norms” and normalization.
 
- - 
+ -
 
 The “Movement” Is Dead; Long Live… Reforms!—A critique of “composition” and its elites.
 
- - 
+ -
 
 La trahison qui vient
 
