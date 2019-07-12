@@ -1,0 +1,8 @@
+#title File Gallery
+#blob ocr
+#attach audio.flac audio.mp3 audio.ogg try.epub try.pdf video.avi video.mkv video.mov video.mp4 video.mpg video.ogv video.webm
+
+This is the beginning of the OCR
+
+Bla bla bla
+
