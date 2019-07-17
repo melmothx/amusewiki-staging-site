@@ -1,3 +1,4 @@
+#ATTACH t-t-test-1.webm t-t-test-2.pdf t-t-test-4.mp3 t-t-test-3.mp4
 #title File Gallery
 #blob ocr
 #attach audio.flac audio.mp3 audio.ogg try.epub try.pdf video.avi video.mkv video.mov video.mp4 video.mpg video.ogv video.webm
