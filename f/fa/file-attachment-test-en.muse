@@ -1,6 +1,7 @@
+#ATTACH f-a-file-attachment-test-en-1.mov
 #title file attachment test
 #lang en
 #pubdate 2019-07-17T11:04:50
+#blob 1
 
-
-
+A single file is attached here
