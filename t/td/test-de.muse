@@ -1,6 +1,10 @@
 #title Test
 #lang en
 #pubdate 2019-07-29T15:07:02
+#cat releases
+
+
+* Hello world
 
 
 
