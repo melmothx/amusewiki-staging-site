@@ -12,3 +12,9 @@ x
 
 [[t-c-test-custom-formats-all-en-1.png f]]
 
+
+
+[[t-c-test-custom-formats-all-en-2.png f]]
+
+[[t-c-test-custom-formats-all-en-3.png f]]
+
