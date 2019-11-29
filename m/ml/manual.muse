@@ -1,11 +1,12 @@
+#pubdate 2018-01-28
 #title The Text::Amuse markup manual
 #lang en
 #topics doc, howto
 #authors Marco Pessotto, Michael Olson, John Wiegley
 #subtitle The writer’s guide
-#date 2012
+#date 2018
 #teaser Everything you have to know about the Text::Amuse markup. Last
- updated for version 0.90 (released on August 30, 2017).
+ updated for version 0.97 (released on February 28, 2018).
 
 Copyright (C) 2004, 2005, 2006, 2007, 2008, 2009, 2010 Free Software
 Foundation, Inc.
@@ -68,7 +69,7 @@ And this is right
 
 This is a quotation:
 
-  
+
   But if a line begins with whitespace (at least 2 spaces), though
   less than six columns, it indicates a quoted paragraph.
   Alternatively, you can use the =<quote>= tag to surround regions that
@@ -128,7 +129,7 @@ spaces, notably lists and tables.**
 
 *** Literal paragraphs
 
- 
+
 The =<example>= tag is used for examples, where whitespace should be
 preserved, the text rendered in monospace, and any characters special
 to the output style escaped.
@@ -199,27 +200,27 @@ Here we go.
 
 *** Page breaks
 
-If you put exactly five “*” separated by whitespace on a line by
+If you put exactly five <verbatim>“*”</verbatim> separated by whitespace on a line by
 itself, indented by 6 or more spaces (like a centered paragraph),
 you’ll get a page break in the PDF.
 
 This code will break the page.
 
 <example>
-       * * * * * 
+       * * * * *
 </example>
 
-       * * * * * 
+       * * * * *
 
 Anyway, using three of them is just a decorator and it’s not treated specially.
 
-       * * * 
+       * * *
 
-It’s just a centered paragraph with 3 “*”.
+It’s just a centered paragraph with 3 <verbatim>“*”</verbatim>.
 
 ** Levels of headings
 
-  
+
 A heading becomes a chapter or section in printed output — depending on
 the style.  To indicate a heading, start a new paragraph with one or
 more asterisks, followed by a space and the heading title.  Then begin
@@ -295,7 +296,7 @@ with this bundle there is support for the following directives:
 
    This directive is used (defaulting to =#title=) to alphabetically
    sort the titles. It’s handy if you want, for example, sort “A
-   title” under “T” and not under “A”. 
+   title” under “T” and not under “A”.
 
    In this case you may write =#LISTtitle Title=
 
@@ -303,7 +304,7 @@ with this bundle there is support for the following directives:
 
    The subtitle (if any)
 
- - =#SORTauthors= 
+ - =#SORTauthors=
 
    If not provided, this default to =#author=. It’s a list
    separated by semicolons or commas with the various authors. While
@@ -316,25 +317,45 @@ with this bundle there is support for the following directives:
    semicolon-separated) list of topics for the current text. Used to
    index the document.
 
- - =#date= 
+ - =#date=
 
    The **year** of publishing of the document. More information
    should be provided in the =#notes= directive.
 
- - =#notes= 
+ - =#notes=
 
    This directive is used for additional information here (original
    title, translators, credits, etc.).
 
- - =#source= 
-   
+ - =#source=
+
    This directive is used for the source or the text (url, scanned from
-   original, original contribution, etc.). The preferred format is 
+   original, original contribution, etc.). The preferred format is
    “Retrieved on March 8, 2012 from [[http://url.org][the url]]”
+
+ - =#publisher=
+
+   Publisher data, if any.
+
+ - =#isbn=
+
+   ISBN, if any.
+
+ - =#rights=
+
+   Copyright info, if any.
+
+ - =#seriesname=
+
+   If the book belongs to a serie, put it here.
+
+ - =#seriesnumber=
+
+   If the book belongs to a serie, use this slot for the number.
 
  - =#hyphenation=
 
-   See above.
+   See below.
 
 *** Correcting the hyphenation in the PDF output
 
@@ -358,9 +379,8 @@ and diacritics are fine, though). You specify a breakpoint with the
 hyphen character “-”. Using a word without any hyphen will prevent the
 hyphenation for that word.
 
-** Bold, italicized and monospace text
+** Bold, italicized and monospace text, non breaking space.
 
-  
 To emphasize text, surround it with certain specially recognized
 characters.
 
@@ -369,23 +389,24 @@ The following example will produce:
      *emphasis*
      **strong emphasis**
      ***very strong emphasis***
-     =code and monospace=
+     =verbatim and monospace=
 
 <example>
      *emphasis*
      **strong emphasis**
      ***very strong emphasis***
-     =code and monospace=
+     =verbatim and monospace=
 </example>
 
 Each of these forms may span
 multiple lines, but not multiple paragraphs.
 
 You can also use the =<code>= tag to indicate code and monospace
-text. This is handy for regions that have an “=” in them.
+text. This is handy for regions that have a <verbatim>“=”</verbatim> in them.
 
-If the “*” confuse you or the preview is screwed up, you can use
-inline tag =<em>= and =<strong>=, which are guaranteed to work in any case.
+If the <verbatim>“*”</verbatim> confuse you or the preview is screwed up, you can use
+inline tag =<em>= and =<strong>=, which are guaranteed to work in any
+case.
 
 The above example rewritten with tags:
 
@@ -393,7 +414,7 @@ The above example rewritten with tags:
      <em>emphasis</em>
      <strong>strong emphasis</strong>
      <strong><em>very strong emphasis</em></strong>
-     <code>code and monospace</code>
+     <code>verbatim and monospace</code>
 </example>
 
 And produces the same thing.
@@ -401,7 +422,7 @@ And produces the same thing.
      <em>emphasis</em>
      <strong>strong emphasis</strong>
      <strong><em>very strong emphasis</em></strong>
-     <code>code and monospace</code>
+     <code>verbatim and monospace</code>
 
 Please note that there is no support for the underline. Underlining is
 an handwritten substitute for the italics. You simply don’t need it.
@@ -409,7 +430,13 @@ an handwritten substitute for the italics. You simply don’t need it.
 Also, small caps are missing, mainly because on the HTML they look
 awful and a very few fonts have decent small caps.
 
-Other tags are =<sub>= and =<sup>= for subscript and superscript. And
+Since Text::Amuse version 0.96 (released 2018-01-27), which restored
+Emacs Muse compatibility in this regard, material in =<code>= tags and
+equivalent markup between equal signs is also verbatim, but with a
+monospace font.
+
+Other tags are =<sub>= and
+=<sup>= for subscript and superscript. And
 there is also a =<del>= tag for overstriking.
 
 <example>
@@ -422,8 +449,8 @@ This is the <sup>superscript</sup> and this is a
 <sub>subscript</sub>, and this is <del>something deleted and
 overstriked</del>
 
-If you nest the same tag (e.g. <code><verbatim><em>this <em>and
-this</em></em></verbatim></code>, you are going to get weird results
+If you nest the same tag (e.g. =<em>this <em>and
+this</em></em>=, you are going to get weird results
 (and doesn’t make any sense), so don’t do it. <code>=</code> and
 <code>*</code> when surrounding words have the same meaning of the
 respective tags:
@@ -434,11 +461,22 @@ respective tags:
 =this= is the same as <code>this</code>
 }}}
 
+*** Non-breaking space.
+
+Non breaking space (=0xA0= Unicode, NO-BREAK SPACE) is just a regular
+character, but it's somehow complicate to manage, because very often
+appears like a normal space. You can use a double tilde
+<verbatim>~~</verbatim> to insert a non~~breaking~~space which is
+explicit in the muse document.
+
+This feature was added in Text::Amuse 0.94 but it was present in Emacs
+Muse.
+
 ** Footnotes
 
 A footnote reference is simply a number in square brackets.  To define
 the footnote, place this definition starting the line with a digit in
-square brackets. 
+square brackets.
 
 <example>
 This is the text, and we refer to a footnote [1]
@@ -483,7 +521,43 @@ Here the text continues.
 
 ----
 
-You can break the footnotes lines (even if it’s not recommended), but keep the indentation consistent, as shown above
+You can break the footnotes lines (even if it’s not recommended), but
+keep the indentation consistent, as shown above.
+
+*** Secondary footnotes (support added in Text::Amuse 0.91, 2017-12-10)
+
+Rarely needed, but supported, are the secondary footnotes, i.e. an
+additional apparatus. They obey the same rules as the regular
+footnotes, but they are marked with curly brackets instead of square
+ones. You can also place secondary footnotes in regular footnotes.
+This is meant for critical edition, but you may use them to
+differentiate between author's notes and translator's notes.
+
+{{{
+
+This is a regular [4] footnote, and this a secondary {1}
+
+[4] Regular footnote, and has a secondary one on it {2}
+
+{1} Secondary footnote body (1)
+
+{2} Secondary footnote body (2)
+
+}}}
+
+Which produces:
+
+----
+
+This is a regular [4] footnote, and this a secondary {1}
+
+[4] Regular footnote, and has a secondary one on it {2}
+
+{1} Secondary footnote body (1)
+
+{2} Secondary footnote body (2)
+
+----
 
 ** Poetic stanzas
 
@@ -528,7 +602,7 @@ Or this
 
 > A line of Emacs verse;
 >   forgive its being so terse.
-> 
+>
 > In terms of terse verse,
 >   you could do worse.
 
@@ -546,7 +620,7 @@ Or this
 
 > A line of Emacs verse;
 >   forgive its being so terse.
-> 
+>
 > In terms of terse verse,
 >   you could do worse.
 
@@ -647,7 +721,7 @@ A description list
 
 If for some reason you want to break the list without starting a
 regular paragraph, you can do so by inserting a
-<verbatim><br></verbatim> tag (which adds some white space between
+=<br>= tag (which adds some white space between
 them) or a comment (invisible). E.g.
 
 {{{
@@ -1023,7 +1097,7 @@ The ordering of the footer, header and table body blocks is irrelevant
 for the output (HTML requires you put first the header, then the
 footer, then the body). Ordering of the single rows is of course
 preserved. Inside the cells you can do pretty much what you want
-(beside headers and lists): mark them up freely.
+(besides headers and lists): mark them up freely.
 
 *** Floating tables
 
@@ -1224,20 +1298,39 @@ Results:
 
 ----
 
+#namedanchor
 ** Named anchors
 
-If you start a line with “#anchor” – where “anchor” can be any (ASCII)
-word that starts with a letter and contains only ASCII letters and
-digits – it defines an anchor at that point into the document. This
-point can be referenced using “#anchor” as the target in a Muse link.
-Please note that the anchor must be on a line by itself.
 
-You can’t have an anchor at the very beginning of the text, because it’s
-merged into the header, so, if you really have to, put a =br= tag before
-it.
+If you start a line (regardless of the indentation) with a word
+prefixed by an hash, e.g. =#anchor= – where =anchor= can be any
+(ASCII) word that starts with a letter and contains only ASCII
+letters, digits and dashes – it defines an anchor at that point into
+the document. This point can be referenced using “#anchor” as the
+target in a Muse link.
+
+If you need to start a line with an hash, wrap it in =<verbatim>= E.g.
+
+{{{
+<verbatim>#hashtag</verbatim> verbatim.
+=#hashtag= verbatim as code.
+}}}
+
+Yielding:
+
+<verbatim>#hashtag</verbatim> verbatim.
+=#hashtag= verbatim as code.
 
 The support for this feature was introduced in Text::Amuse version
-0.70 and improved in 0.82
+0.70 and improved in 0.82. Compatibility with Emacs Muse was restored
+in version 1.10, released on April 23, 2018, allowing text material on
+the same line of the anchor.
+
+Anchors adjacent to section headers will be attached to them, while
+lonely anchors not adjacent to any material will attach to the next
+first regular text.
+
+Example:
 
 {{{
 #title My text
@@ -1250,6 +1343,13 @@ This is not an anchor, it's part of the header with a dummy name.
 #begin
 This will work.
 
+#an-anchor At the beginning of the line.
+
+<verbatim>#hashtag</verbatim> verbatim.
+
+=#hashtag= verbatim as code.
+
+#anchor-to-section
 *** Section
 
 #anchor
@@ -1262,7 +1362,6 @@ More text.
 
 And here we can link to [[#anchor][our anchor]] and to the
 [[#begin][begin]] and to [[#nextsection][this section]].
-
 }}}
 
 Please note that the name in the HTML output is not kept verbatim.
@@ -1298,11 +1397,12 @@ See [[#anchor][the previous chapter]] for more information.
 ; this will disappear completely
 
 That is, only a semi-colon at the beginning of a line, followed by a
-literal space, will cause that line to be treated as a comment and
-**totally removed from the output.** 
+literal space, will cause that line to be treated as a comment an
+hidden from the visible output.
 
-You can alternatively surround the region with the =<comment>= tag. In
-this case the HTML output will be wrapped in a =<div>= with the
+You can alternatively surround the region with the =<comment>= tag.
+
+The HTML output will be wrapped in a =<div>= with the
 =display:none= property, so it can be turned visible changing the
 CSS.
 
@@ -1405,7 +1505,7 @@ Sometimes you want to write something like <verbatim>[1]</verbatim>
 without meaning a footnote reference, or asterisks without meaning an
 emphasis, e.g. <verbatim>*this*</verbatim>.
 
-You can do so wrapping the words with the <verbatim><verbatim></verbatim> tag.
+You can do so wrapping the words with the =<verbatim>= tag.
 
 Example:
 
@@ -1413,6 +1513,82 @@ Example:
 Sometimes you want to write something like <verbatim>[1]</verbatim>
 without meaning a footnote reference, or asterisks without meaning an
 emphasis, e.g. <verbatim>*this*</verbatim>.
+}}}
+
+Since Text::Amuse version 0.96 (released 2018-01-27), which restored
+Emacs Muse compatibility in this regard, material in =<code>= tags and
+equivalent markup between equal signs is also verbatim, but with a
+monospace font.
+
+** Differences between =Text::Amuse= and Emacs Muse
+
+Unfortunately, the Emacs Muse project is dead. However,
+[[https://pandoc.org][pandoc]] supports the muse syntax.
+
+*** Inline markup
+
+**** Underlining
+
+Underlining has been dropped.
+
+**** Tags for emphasis
+
+Emphasis and strong can also be written with tags, like =<em>emphasis</em>=,
+=<strong>strong</strong>= and =<code>code</code>=.
+
+**** Superscript and subscript tags
+
+Added tag =<sup>= and =<sub>= for superscript and
+subscript.
+
+**** Allowed characters before lightweight markup
+
+Asterisk and equal symbols (<verbatim>*, **, *** =</verbatim>) are
+interpreted as markup elements if they are paired (an opening one and
+a closing one).
+
+The opening one must be preceded by something which is not an
+alphanumerical character (or at the beginning of the line) and
+followed by something which is not a space.
+
+The closing one must be preceded by something which is not a space,
+and followed by something which is not an alphanumerical character (or
+at the end of the line).
+
+Unlike Emacs Muse (as of version 3.20.2), any non-alphanumeric characters
+are allowed before the opening =*= and <code>=</code>. For example, the
+following markup is interpreted as bold code by Amusewiki
+{{{
+**=Bold code=**
+}}}
+while Emacs Muse interprets it as bold "<verbatim>=Bold code=</verbatim>".
+
+*** Block markup
+
+The only tables supported are the native one (with =|||= as separator).
+
+While Emacs Muse requires the bars to be surrounded by spaces to
+trigger a table, Text::Amuse requires some initial indentation. To
+write compatible table, please indent and keep the bars surrounded by
+spaces.
+
+Since version 0.60, the code blocks, besides the =<example>= tag, can
+also be written as ={{{= =}}}=, e.g.
+
+<example>
+{{{
+ if ($perl) {...}
+}}}
+</example>
+
+Since 0.91, there is full support for secondary footnotes with number
+inside curly brackets. Emacs Muse is missing this feature.
+
+Lists require whitespace after list item marker.
+{{{
+ -This is not a list item.
+
+ 1.This is not an ordered list item.
 }}}
 
 * GNU Free Documentation License
@@ -1835,19 +2011,19 @@ public wiki that anybody can edit is an example of such a server.  A
 “Massive Multiauthor Collaboration” (or “MMC”) contained in the site
 means any set of copyrightable works thus published on the MMC site.
 
-“CC-BY-SA” means the Creative Commons Attribution-Share Alike 3.0 
-license published by Creative Commons Corporation, a not-for-profit 
-corporation with a principal place of business in San Francisco, 
-California, as well as future copyleft versions of that license 
+“CC-BY-SA” means the Creative Commons Attribution-Share Alike 3.0
+license published by Creative Commons Corporation, a not-for-profit
+corporation with a principal place of business in San Francisco,
+California, as well as future copyleft versions of that license
 published by that same organization.
 
-“Incorporate” means to publish or republish a Document, in whole or in 
+“Incorporate” means to publish or republish a Document, in whole or in
 part, as part of another Document.
 
-An MMC is “eligible for relicensing” if it is licensed under this 
-License, and if all works that were first published under this License 
-somewhere other than this MMC, and subsequently incorporated in whole or 
-in part into the MMC, (1) had no cover texts or invariant sections, and 
+An MMC is “eligible for relicensing” if it is licensed under this
+License, and if all works that were first published under this License
+somewhere other than this MMC, and subsequently incorporated in whole or
+in part into the MMC, (1) had no cover texts or invariant sections, and
 (2) were thus incorporated prior to November 1, 2008.
 
 The operator of an MMC Site may republish an MMC contained in the site
