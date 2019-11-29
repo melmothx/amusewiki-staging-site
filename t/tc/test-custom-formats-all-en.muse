@@ -1,0 +1,19 @@
+#title test custom formats (all)
+#lang en
+#pubdate 2019-11-14T09:42:55
+#publisher My publisher
+#location Zagreb
+
+
+
+
+
+
+[[t-c-test-custom-formats-all-en-1.png f]]
+
+
+
+[[t-c-test-custom-formats-all-en-2.png f]]
+
+[[t-c-test-custom-formats-all-en-3.png f]]
+
