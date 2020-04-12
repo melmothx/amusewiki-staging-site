@@ -1,4 +1,4 @@
-#title News
+#title Amusewiki staging site
 #lang en
 
 This is the **staging site** for [[/special/about][amusewiki]], a
