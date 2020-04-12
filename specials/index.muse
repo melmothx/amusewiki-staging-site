@@ -6,6 +6,8 @@ library-oriented wiki engine. Amusewiki is more than just a wiki
 engine, it’s also a powerful authoring, archiving and publishing
 platform.
 
+This is a test site and it's reset now and then.
+
 ** Getting started
 
 Amusewiki is 100% free software. You can download it at
